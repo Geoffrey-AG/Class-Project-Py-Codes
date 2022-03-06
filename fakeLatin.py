@@ -1,5 +1,6 @@
 def main():
-
+    
+    #program for pig latin
     END = 'ay'
     word = input("Enter a word: ")
     firstLetter = word[0]
