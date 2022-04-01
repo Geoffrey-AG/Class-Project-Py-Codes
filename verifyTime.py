@@ -1,7 +1,7 @@
 '''
 Name: Geoffrey Gomlak
 Class: CSC 119
-Program: Cilvillian time to Military Time
+Program: Civilian Time to Military Time
 Date: 3/12/22
 Updated: 3/29/22
 '''
